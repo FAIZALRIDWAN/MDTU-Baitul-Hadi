@@ -8,7 +8,7 @@ const LinkedinIcon = ({ className }) => (
 
 const teachers = [
   {
-    image: '5.png',
+    image: 'Struktur fiks.jpg',
   },
 ]
 
