@@ -25,7 +25,7 @@ export default function Hero() {
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-foreground leading-tight text-balance">
               Mencetak{' '}
-              <span className="text-primary">Generasi berakhlak mulia</span>{' '}
+              <span className="text-primary">Generasi berakhlak Mulia</span>{' '}
               berwawasan luas serta berpegang teguh pada Al-qur'an dan Hadits
             </h1>
 
