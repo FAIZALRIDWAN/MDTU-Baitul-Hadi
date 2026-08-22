@@ -10,6 +10,10 @@ const galleryImages = [
 
   },
   {
+    src: './2.jpeg',
+    alt: 'Ujian Akhir Semester Gasal 2026/2027',
+  },
+  {
     src: './UAS Gasal.jpeg',
     alt: 'Ujian Akhir Semester Gasal 2026/2027',
   },
