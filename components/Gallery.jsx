@@ -11,7 +11,7 @@ const galleryImages = [
   },
   {
     src: './2.jpeg',
-    alt: 'Ujian Akhir Semester Gasal 2026/2027',
+    alt: 'Penyembelihan Hewan Kurban Idul Adha 1447 Hijriah',
   },
   {
     src: './UAS Gasal.jpeg',
